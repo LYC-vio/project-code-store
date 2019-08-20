@@ -22,4 +22,3 @@ Assembly_results_S12878
 |
 |-ref_dir
 ```
-[comment]: <> (This is a comment, it will not be included)
