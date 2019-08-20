@@ -24,8 +24,8 @@ Assembly_results_S12878
 │-Local_Assembly_by_chunks
 │   └-chr*_files_cutPBHC
 │       │-fastq_by_*_*_hp1.fastq
-|       │-fastq_by_*_*_hp2.fastq
-|       │-fastq_by_*_*_hp1_spades_assembly
+│       │-fastq_by_*_*_hp2.fastq
+│       │-fastq_by_*_*_hp1_spades_assembly
 │       └-fastq_by_*_*_hp2_spades_assembly
 │
 └-Assembly_Contigs_files
