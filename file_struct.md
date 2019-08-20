@@ -2,7 +2,7 @@
 Assembly_results_S12878
 |-Assembly_Contigs_files
 |   |-Aquila_Contig_chr*.fasta
-|   |-Aquila_contig.fasta [comment]: <> (This is a comment, it will not be included)
+|   |-Aquila_contig.fasta 
 |
 |-H5_for_molecules 
 |   |-S12878_chr*_sorted.h5
@@ -22,3 +22,4 @@ Assembly_results_S12878
 |
 |-ref_dir
 ```
+[comment]: <> (This is a comment, it will not be included)
