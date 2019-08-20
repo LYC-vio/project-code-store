@@ -1,7 +1,7 @@
 ```
 Assembly_results_S12878
 |-H5_for_molecules 
-|   +-S12878_chr*_sorted.h5
+|   +--S12878_chr*_sorted.h5
 |
 |-HighConf_file
 |   |-chr*_global_track.p
