@@ -7,7 +7,7 @@ Assembly_results_S12878
 |   |-chr*_global_track.p
 |
 |-results_phased_probmodel
-|   `-chr*.phased_final
+|   '-chr*.phased_final
 |
 |-phase_blocks_cut_highconf
 |
